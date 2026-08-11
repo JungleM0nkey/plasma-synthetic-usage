@@ -13,7 +13,7 @@ Save the key in `~/.config/synthetic/api-key`, then restrict the file:
 chmod 600 ~/.config/synthetic/api-key
 ```
 
-You can use `SYNTHETIC_API_KEY` instead if Plasma receives that environment variable.
+Alternatively use `SYNTHETIC_API_KEY` in your environment profile
 
 ## Install
 
