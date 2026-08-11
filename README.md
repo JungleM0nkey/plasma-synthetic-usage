@@ -2,7 +2,7 @@
 
 A Plasma 6 panel widget for synthetic.new quotas. It shows weekly credits and the rolling five-hour request limit.
 
-![Synthetic Usage widget showing 93% weekly usage and 0% five-hour usage](docs/screenshot.png)
+<img src="docs/readme-preview.png" alt="Synthetic Usage widget showing 93% weekly usage and 0% five-hour usage" width="780">
 
 ## Requirements
 
